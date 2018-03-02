@@ -1,0 +1,104 @@
+         /***tag  general    ***/
+
+body{
+	    font-size: 16px;
+	    font-family: Verdana sans-serif;
+	    color: #333;
+	    box-shadow: 2px;
+}
+       /*** header     ***/
+
+header{ text-align: center;
+	    font-weight: bold;
+	    font-size: 40px;
+	    margin-top: 40px;
+	    margin-bottom: 40px;
+      /** body ****/
+
+}
+#section{
+	    width: 800px;
+	    height: auto;
+		padding: 30px;
+		margin-left: 200px;
+		border: solid 1px midnightblue;
+		margin-bottom: 40px;
+}
+
+h3 {
+	margin: 0 0 1em 0;
+	padding: 10px 20px;
+	text-align: center;
+	background: midnightblue;
+	color: white;
+}
+
+
+input {
+	display: block;
+	float: right;
+    width: 200px;
+    height: 20px;
+    padding-top:0px;
+	margin-left: 550px;
+	margin-right: 100px;
+	border:1px solid black; 
+	background-color:silver;
+	border-radius:2px;
+	box-shadow:1px 1px 6px #aaa;
+
+    }
+  input:hover {
+ background-color:#FCDEDE;
+
+  }
+
+    
+label{
+    margin-right:50px;
+    padding-top: 50px;
+    padding-left: 50px;
+    margin-top: 60px;
+    color: black;
+
+}
+
+#red{font-weight: bold;
+	color:  red;
+
+}
+#text{
+	line-height: -40px;
+
+}
+
+.button{
+	display: inline-block;
+	margin: 10px;
+	margin-left: 150px;
+	margin-right: 20px;
+	padding: 15px;
+
+}
+span{
+	text-align: center;
+}
+
+
+input[type=submit]:hover, input[type=reset]:hover {
+ background-color:#FCDEDE;
+ }
+input[type=submit]:active, input[type=reset]:active {
+ background-color:#FCDEDE;
+ box-shadow:2px 2px 5px #D83F3D inset;
+}
+
+
+ border:1px solid black; 
+ background-color:silver
+ border-radius:2px;
+ box-shadow:1px 1px 3px #aaa;
+
+
+
+	
